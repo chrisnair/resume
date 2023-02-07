@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1675455256 "/mnt/c/Users/chris/GitHub/resume/resume.tex" "/mnt/c/Users/chris/GitHub/resume/resume.pdf" "resume" 1675455264
+["pdflatex"] 1675710428 "/mnt/c/Users/chris/GitHub/resume/resume.tex" "/mnt/c/Users/chris/GitHub/resume/resume.pdf" "resume" 1675710434
   "/etc/texmf/web2c/texmf.cnf" 1675023968 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/mnt/c/Users/chris/GitHub/resume/resume.aux" 1675455263 1403 7be0d8967e149e0c367b8c9af4d011a4 ""
-  "/mnt/c/Users/chris/GitHub/resume/resume.tex" 1675455255 8759 0d6e662e6cd7d46ee8d53eb0190be3a5 ""
+  "/mnt/c/Users/chris/GitHub/resume/resume.aux" 1675710433 1403 7be0d8967e149e0c367b8c9af4d011a4 ""
+  "/mnt/c/Users/chris/GitHub/resume/resume.tex" 1675710428 8470 de7a19bc81c512d85c1a6913c8ce2230 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/cfr-lm/t1-clm.enc" 1278888116 3104 554211af71f34bcdc3ed0d44a5fba87f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1579211814 2895 e3c789f6531dc88b7922a50d00c2706d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1579211814 2984 451ea9e2633f96ffab926df4dba59125 ""
@@ -246,13 +246,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1675024028 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1675024045 8258517 1b20ab6328f5ad68a82fffb3ad9859cc ""
-  "resume.aux" 1675455263 1403 7be0d8967e149e0c367b8c9af4d011a4 "pdflatex"
-  "resume.out" 1675455263 303 42550a0c0394d31c908efa6ca9d92803 "pdflatex"
-  "resume.tex" 1675455255 8759 0d6e662e6cd7d46ee8d53eb0190be3a5 ""
+  "resume.aux" 1675710433 1403 7be0d8967e149e0c367b8c9af4d011a4 "pdflatex"
+  "resume.out" 1675710433 303 42550a0c0394d31c908efa6ca9d92803 "pdflatex"
+  "resume.tex" 1675710428 8470 de7a19bc81c512d85c1a6913c8ce2230 ""
   (generated)
   "resume.pdf"
-  "resume.log"
-  "/mnt/c/Users/chris/GitHub/resume/resume.pdf"
-  "resume.aux"
-  "/mnt/c/Users/chris/GitHub/resume/resume.log"
   "resume.out"
+  "resume.log"
+  "/mnt/c/Users/chris/GitHub/resume/resume.log"
+  "resume.aux"
+  "/mnt/c/Users/chris/GitHub/resume/resume.pdf"

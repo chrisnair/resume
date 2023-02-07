@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.1.29)  3 FEB 2023 14:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.1.29)  6 FEB 2023 13:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -905,15 +905,15 @@ LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 248.
+(Font)              using `T1/cmr/bx/sc' instead on input line 239.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 265.
+(Font)              using `T1/cmr/bx/sc' instead on input line 258.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/b/sc' undefined
-(Font)              using `T1/cmr/bx/sc' instead on input line 290.
+(Font)              using `T1/cmr/bx/sc' instead on input line 283.
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -924,25 +924,25 @@ This may cause the page layout to be inconsistent, however.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 309.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 309.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 302.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 302.
  (/mnt/c/Users/chris/GitHub/resume/resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 309.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 309.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 302.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 302.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 42550A0C0394D31C908EFA6CA9D92803;303.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 309.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 302.
  ) 
 Here is how much of TeX's memory you used:
  28774 strings out of 481239
  578293 string characters out of 5920377
- 953963 words of memory out of 5000000
+ 952963 words of memory out of 5000000
  43464 multiletter control sequences out of 15000+600000
  568226 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,11n,103p,966b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cfr-lm/t1-clm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrb1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrb1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrb1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfxc1200.pfb>
-Output written on /mnt/c/Users/chris/GitHub/resume/resume.pdf (1 page, 193195 bytes).
+Output written on /mnt/c/Users/chris/GitHub/resume/resume.pdf (1 page, 192555 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  101 compressed objects within 2 object streams
