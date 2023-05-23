@@ -108,9 +108,9 @@
 \newcommand{\resumeItemListStart}{\begin{justify}\begin{itemize}[leftmargin=3ex, rightmargin=2ex, noitemsep,labelsep=1.2mm,itemsep=0mm]\small}
 
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{2mm}}
-\newcommand{\resumeHeadingSkillEnd}{\end{itemize}\vspace{-2mm}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\end{justify}\vspace{-2mm}}
-\newcommand{\cvsection}[1]{%
+\newcommand{\resumeHeadingSkillEnd}{ \end{itemize}\vspace{-2mm}}
+\newcommand{\resumeItemListEnd}{\end{itemize} \end{justify}\vspace{-2mm}}
+\newcommand{\cvsection}[1]{
 \vspace{2mm}
 \begin{tcolorbox}
     \textbf{\large #1}
@@ -164,7 +164,7 @@
 \section{\textbf{Education}}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {University of Iowa}{GPA: 3.36}
+      {University of Iowa}{}%<--GPA
       {Computer Science, BS} {August 2021-May 2025}
       {\textit{\footnotesize{Arabic Language, Minor}}}
   \resumeSubHeadingListEnd
@@ -233,10 +233,10 @@
       {(WIP) Video Game version of the popular children's game Battleship.} %Project Name, Location Name
       {} %Event Dates
 
-      \resumeItemListStart
-      \item { Developed using only default Java libraries. Complete with original graphics and online multiplayer.}
-      \item {My primary contribution: All gameplay elements and logic for handling scoring, ship placement, boards, etc.}
-    \resumeItemListEnd
+      % \resumeItemListStart
+      % \item { Developed using only default Java libraries. Complete with original graphics and online multiplayer.}
+      % \item {My primary contribution: All gameplay elements and logic for handling scoring, ship placement, boards, etc.}
+      % \resumeItemListEnd
     \vspace{-2mm}
     
       
@@ -250,7 +250,7 @@
  \begin{itemize}[leftmargin=0.05in, label={}]
     \small{\item{
      \textbf{Languages}{: Java, Python, C, Haskell, ARM Assembly } \\
-       \textbf{Developer Tools}{: Windows, Linux, Git } \\
+       \textbf{Developer Tools}{: Windows, Linux, Git, Raspberry Pi } \\
 
      %\textbf{Frameworks}{: } \\
      %\textbf{Cloud/Databases}{: } \\
